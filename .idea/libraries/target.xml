@@ -3,6 +3,14 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/target/mkyong-core-1.0-SNAPSHOT-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/target/mkyong-core-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/org.hamcrest.core_1.1.0.v20090501071000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/mockito-core-1.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/mockito-all-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/junit-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/hamcrest-all-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/cuke4duke/picocontainer-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/cuke4duke/cuke4duke-0.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/cuke4duke/jruby-complete-1.6.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

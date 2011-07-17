@@ -1,4 +1,4 @@
-package test.unit;
+package unit;
 
 import static org.hamcrest.core.Is.is;
 import mars.CoordinatePosition;
