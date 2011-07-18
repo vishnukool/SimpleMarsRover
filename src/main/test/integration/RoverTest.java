@@ -1,4 +1,4 @@
-package integration;
+package Main.test.integration;
 
 import mars.CoordinatePosition;
 import mars.OutOfPlateauBoundsException;
