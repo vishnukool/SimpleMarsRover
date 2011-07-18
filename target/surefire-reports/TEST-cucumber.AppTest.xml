@@ -19,7 +19,7 @@
     <property name="basedir" value="C:\Users\vishnuk\MarsRoverSimple"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_26\jre\lib\endorsed"/>
     <property name="os.arch" value="x86"/>
-    <property name="surefire.real.class.path" value="C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefirebooter8900285849165073378.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefirebooter8573615028023409331.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\vishnuk\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_26\jre"/>
-    <property name="sun.java.command" value="C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefirebooter8900285849165073378.jar C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefire2232508423740327402tmp C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefire1003153334693119512tmp"/>
+    <property name="sun.java.command" value="C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefirebooter8573615028023409331.jar C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefire833379249474285957tmp C:\Users\vishnuk\MarsRoverSimple\target\surefire\surefire8105785508278368830tmp"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
